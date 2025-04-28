@@ -1,12 +1,13 @@
+<h3 align="center">ai sensory health</h3>
 <p align="center">
   <a href="#key-features">Key Features</a> &nbsp; | &nbsp;
   <a href="#branches">Branches</a> &nbsp; | &nbsp;
   <a href="#getting-started">Getting Started</a> 
 </p>
 <h2 align="center">
-  <img src="brain-GREEN-LATERN.png" alt="Logo" width="200">
-  </br>AI-Sensory-Health
-  </br><img src="Logo_4.png" alt="Logo" width="80">
+<!--   <img src="brain-GREEN-LATERN.png" alt="Logo" width="200"> -->
+  <img src="https://repository-images.githubusercontent.com/530891402/a43f8b61-36bf-4102-a91a-4a386e9d351a" alt="Logo" width="450">
+<!--   </br><img src="Logo_4.png" alt="Logo" width="80"> -->
 </h2>
 
 AI-Sensory-Health is a Mental Health App that uses Topic Modeling Technology (NMF) to connect users with sensory health
